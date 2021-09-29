@@ -88,9 +88,11 @@
   .mapbox-map__title .text-body-2 {
     margin: 0;
   }
+
   #map {
     z-index: 5;
   }
+  
   #container {
     height: 800px;
   }
